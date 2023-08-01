@@ -14,6 +14,7 @@ The project includes an analysis of the effect of various parameters on the perf
 ## Results
 
 The GA was able to find good solutions to the TSP. However, due to the nature of the GA, the solution may not always be the absolute best solution, but it is a good approximation. The performance of the GA is heavily influenced by the parameters used, such as the mutation rate, population size, and elite size.
+
 ![500 runs distb](https://github.com/MGB666/Solving-the-Travelling-Salesman-Problem-Using-Genetic-Algorithms/assets/132854665/c2e401ce-d27f-42de-9089-0a19e56d1023)
 
 ## License
