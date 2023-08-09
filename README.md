@@ -1,5 +1,5 @@
 # Solving-the-Travelling-Salesman-Problem-Using-Genetic-Algorithms
-# Genetic Algorithm for the Traveling Salesman Problem (TSP)
+
 
 This project implements a Genetic Algorithm (GA) to solve the Traveling Salesman Problem (TSP). There's also a paper which explains in detail how this project implemented.
 
